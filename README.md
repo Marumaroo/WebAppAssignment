@@ -3,7 +3,7 @@
 Banking Web Application developed for my Web Applications and Services Module, in Jakarta EE.
 
 # Front-End
-The front-end is developed using JSF pages and are all connected to CDI backing beans. [Materialize CSS Framework]{https://materializecss.com/} was used for styling the webapp and some custom CSS to achieve the desired look.
+The front-end is developed using JSF pages and are all connected to CDI backing beans. [Materialize CSS Framework](https://materializecss.com/) was used for styling the webapp and some custom CSS to achieve the desired look.
 
 # Accounts
 Users can sign up with £1000 or the equivalent in the chosen currency. There is one master admin account capable of creating more admin accounts but child admin accounts cannot not create more admin accounts.
